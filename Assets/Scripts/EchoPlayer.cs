@@ -5,8 +5,8 @@ using UnityEngine.SceneManagement;
 public class EchoPlayer : MonoBehaviour
 {
     [Header("Movement Settings")]
-    [SerializeField] private float jumpForce = 13f;      
-    [SerializeField] private float gravity = 4.5f;         
+    [SerializeField] private float jumpForce = 22f;      
+    [SerializeField] private float gravity = 12f;         
 
     [Header("Light Settings")]
     [SerializeField] private Light2D echoLight;
