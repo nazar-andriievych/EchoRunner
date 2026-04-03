@@ -48,7 +48,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\EchoPlayer.cs" />
+    <Compile Include="Assets\Enemy Galore 1 - Pixel Art\Script\EnemyTest.cs" />
+    <Compile Include="Assets\Enemy Galore 1 - Pixel Art\Script\EnemySelector.cs" />
     <Compile Include="Assets\Scripts\LevelMover.cs" />
+    <None Include="Assets\Cave Platformer Tileset\readme.txt" />
+    <None Include="Assets\Enemy Galore 1 - Pixel Art\Read Me.txt" />
     <Reference Include="UnityEngine">
       <HintPath>D:\Program Files\Unity\Hub\Editor\6000.3.10f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
